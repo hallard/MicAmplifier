@@ -26,6 +26,8 @@ Everything will be documented on my[blog][4]
 
 ![top](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-top.png =200x210)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-bottom.png =200x210)
 
+<img src="MicAmplifier-top.png" alt="Top" style="width: 200px;"/>
+
 [1]: http://coolarduino.wordpress.com/
 [2]: http://coolarduino.wordpress.com/2012/06/28/stereo-audio-vu-meter-on-arduino/
 [3]: http://coolarduino.wordpress.com/2012/07/01/audio-vu-meter-ac-micro-voltmeter-with-extra-wide-dynamic-range-72-db/
