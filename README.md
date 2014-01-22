@@ -24,7 +24,7 @@ Everything will be documented on my[blog][4]
 **Board**  
 ![board]( https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-brd.png )
 
-![top](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-top.png =200x)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-bottom.png =200x)
+![top](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-top.png =200x210)&nbsp;&nbsp;![bottom](https://raw.github.com/hallard/MicAmplifier/master/MicAmplifier-bottom.png =200x210)
 
 [1]: http://coolarduino.wordpress.com/
 [2]: http://coolarduino.wordpress.com/2012/06/28/stereo-audio-vu-meter-on-arduino/
